@@ -1,4 +1,4 @@
-# IMA-ADCRNN
+# ABSTN
 Tensorflow-Implement
 
 Datasets Download: [DCRNN](https://github.com/liyaguang/DCRNN) Run [data_generator.py](data/data_generator)-->change the parse parameters to get your own datasets  
